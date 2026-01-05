@@ -10,7 +10,7 @@ return {
 	assets: new Set(["favicon.png","post-images/how-is-it-different-from-dune/dune-raw-tables.png","post-images/solidity-coding-challenges/DynamicArrayOfStructsStorage.svg","post-images/solidity-coding-challenges/DynamicArrayStorage.svg","post-images/solidity-coding-challenges/StructDefiner.svg","post-images/solidity-coding-challenges/StructStorage.svg"]),
 	mimeTypes: {".png":"image/png",".svg":"image/svg+xml"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.882e2a17.js","app":"_app/immutable/entry/app.68d17536.js","imports":["_app/immutable/entry/start.882e2a17.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/singletons.88c20fd6.js","_app/immutable/chunks/paths.81ca1fb9.js","_app/immutable/chunks/control.f5b05b5f.js","_app/immutable/entry/app.68d17536.js","_app/immutable/chunks/preload-helper.a4192956.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/index.b97aa178.js"],"stylesheets":[],"fonts":[]},
+		client: {"start":"_app/immutable/entry/start.890107cb.js","app":"_app/immutable/entry/app.84e48831.js","imports":["_app/immutable/entry/start.890107cb.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/singletons.6c970f2a.js","_app/immutable/chunks/paths.f212eb73.js","_app/immutable/chunks/control.f5b05b5f.js","_app/immutable/entry/app.84e48831.js","_app/immutable/chunks/preload-helper.a4192956.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/index.b97aa178.js"],"stylesheets":[],"fonts":[]},
 		nodes: [
 			__memo(() => import('../output/server/nodes/0.js')),
 			__memo(() => import('../output/server/nodes/1.js')),
