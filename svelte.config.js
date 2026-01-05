@@ -13,7 +13,7 @@ const config = {
 	preprocess: [vitePreprocess(), mdsvex(mdsvexOptions)],
 	kit: {
 		adapter: adapter({
-			runtime: 'nodejs16.x'
+			runtime: 'nodejs'
 		})
 	}
 };
