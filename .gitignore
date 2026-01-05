@@ -11,3 +11,4 @@ vite.config.ts.timestamp-*
 src/notes
 src/essays
 
+.vercel/
